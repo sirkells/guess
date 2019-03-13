@@ -1,6 +1,8 @@
-# react-starter-template
-A basic template to begin react app without using create-react-app
+# React card guessing game
+
+A react guessing game created with my react-starter-template
 
 # how to use
+
 npm install
 npm run dev
